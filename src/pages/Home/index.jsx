@@ -12,6 +12,7 @@ import "../../style/main.scss";
 function Home() {
     return (
     <div className='homeContainer'>
+    hello !
       {/*<Nav />
       <AboutMe/>
       <Gallery/>
